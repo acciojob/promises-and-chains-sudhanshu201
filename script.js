@@ -5,7 +5,7 @@ function data(){
 
    // console.log(name,age)
    if(age == "" || name == ""){
-    alert("please enter valid data")
+    alert('Please enter valid details')
     return
    }
 
